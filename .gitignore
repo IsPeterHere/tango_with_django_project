@@ -6,6 +6,7 @@ __pycache__/
 # C extensions
 *.so
 
+progress_tests
 # Distribution / packaging
 .Python
 build/
